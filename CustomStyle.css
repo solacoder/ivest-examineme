@@ -1,0 +1,32 @@
+.btnQuest {
+  min-width: 80px;
+  font-size: 20px;
+  margin-left: 5px;
+}
+
+.fa-trash {
+  color: red;
+}
+
+.fa-pencil-alt {
+  color: blue;
+}
+
+.fas:hover {
+  cursor: pointer;
+}
+
+.btnLog {
+  min-width: 80px;
+  margin-left: 61%;
+}
+
+.btnReg {
+  min-width: 80px;
+}
+
+/* .btnAddQuestion {
+  margin-bottom: -30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+} */
